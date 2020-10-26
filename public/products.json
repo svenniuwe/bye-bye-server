@@ -155,6 +155,14 @@
       "subscription": "No (Free)",
       "license": "LGPLv2.1",
       "marketplace": "No"
-    }
+    },
+    {
+      "title": "Bluespice (based on MediaWiki)",
+      "link": "https://bluespice.com/",
+      "hosting": "Cloud / On Premise",
+      "subscription": "Yes (Free CE)",
+      "license": "unclear",
+      "marketplace": "Yes"
+    }    
   ]
 }
